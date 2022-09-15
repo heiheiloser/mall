@@ -20,3 +20,4 @@ npm run build
 # vue_mall
 # mall
 # mall
+# mall
