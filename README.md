@@ -17,3 +17,4 @@ npm run serve
 npm run build
 ```
 
+# vue_mall
